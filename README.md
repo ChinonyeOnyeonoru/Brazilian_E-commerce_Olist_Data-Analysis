@@ -34,7 +34,7 @@ I.	product_category_name_translation.
 
 - To Create a report.
 
-### Project Instructions:
+### **Project Instructions:**
 
 - Conduct exploratory data analysis with the Olist Store dataset
 - Generate business insights and provide recommendations for improvement. 
@@ -49,4 +49,36 @@ Here are some ideas of the kinds of analyses you might conduct for Olist Store:
 
 ### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
 -	Excel – Data cleaning 
--	PowerBi – Creating a reports 
+-	PowerBi – Creating a reports
+
+###**Creating Data Visualizations**
+
+**Olist Mode of Payment Analysis** 
+
+![image](https://github.com/user-attachments/assets/3070842d-ccf9-4850-a53d-97febff72aea)
+
+1.	Percentage Payment Value by Payment type
+   
+The pie chart shows the distribution of payment values across different payment types:
+- Credit Card: With 78.34% of the total payment amount, credit cards lead the list of accepted payment methods.
+- Boleto: With 17.92% of the total payment amount, Boleto is the second most used payment option.
+- Voucher: Used seldom, accounting for only 2.37% of the total amount paid.
+- Debit Card: make up the smallest share of the payment value, with only 1.37% of the total payment amount. 
+
+2.	Sum of Payment Value by Payment Type
+
+The bar chart at the top right displays the total Sum of Payment Value for each Payment Type:  
+-	Credit Card: With a 12.5M total payment value, it leads by a considerable margin.
+-	Boleto: Beleto is the significant contributor, with a 2.9 million payment value overall.
+-	Voucher: Voucher payment type makes a meagre 0.4 million contribution. 
+-	Debt Card: Wth a total of 0.2M, debit cards are the least popular form of payment.
+
+  3.	Sum of Payment Instalments by Payment Type
+
+The line chart at the bottom left shows the breakdown of the sum of payment instalment across the payment methods. 
+-	Credit Card: With a total of 0.27 million instalments, credit cards have the highest instalments overall.
+-	Boleto: It drastically dropped with only 0.02 million instalments. 
+-	Voucher: the voucher has extremely low instalment usage of 0.01M
+-	Debit Card: The instalment declined further to 0.00M 
+
+  
