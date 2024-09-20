@@ -102,7 +102,11 @@ Key Insights/ Suggestions:
 - Boleto follows as the second most popular payment method, though it is significantly lower in terms of the number of installments and average payment value.
 - Voucher and Debit Card are used sparingly, with vouchers having a particularly low average payment value (66 units).
 
-This analysis suggests that credit cards are the preferred payment method on the Olist platform, likely due to the flexibility of payment installments and higher transaction amounts.
+This analysis suggests that credit cards are the preferred payment method on the Olist platform, likely due to the flexibility of payment installments and higher transaction amounts. Which can be as result of misappropriate distribution of payment method amongst Olist customers. 
+
+Also, The credit card shows the wealthier audience. There should be further investigation in order to increase reach across demographics.
+
+Lastly, the voucher conditions should be improved such as duration, installment payment. This might reduce the significant drop of the quantity.  
 
 
 
