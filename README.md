@@ -48,7 +48,7 @@ Here are some ideas of the kinds of analyses you might conduct for Olist Store:
 4.	Delivery Performance: Be able to work through delivery performance and find ways to optimise delivery times.
 
 ### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
--	Excel – Data cleaning 
+
 -	PowerBi – Creating a reports
 
 ###**Creating Data Visualizations**
@@ -56,6 +56,12 @@ Here are some ideas of the kinds of analyses you might conduct for Olist Store:
 **Olist Mode of Payment Analysis** 
 
 ![image](https://github.com/user-attachments/assets/3070842d-ccf9-4850-a53d-97febff72aea)
+
+This report analyses the various mode of payment used by Olist customers, based on four key metrics or the Key Performance Indicators (KPI): 
+- Payment value distribution
+- Total payment value,
+- Payment installments
+- Average payment value.
 
 1.	Percentage Payment Value by Payment type
    
@@ -73,12 +79,31 @@ The bar chart at the top right displays the total Sum of Payment Value for each 
 -	Voucher: Voucher payment type makes a meagre 0.4 million contribution. 
 -	Debt Card: Wth a total of 0.2M, debit cards are the least popular form of payment.
 
-  3.	Sum of Payment Instalments by Payment Type
+  3.	Sum of Payment Installments by Payment Type
 
-The line chart at the bottom left shows the breakdown of the sum of payment instalment across the payment methods. 
--	Credit Card: With a total of 0.27 million instalments, credit cards have the highest instalments overall.
--	Boleto: It drastically dropped with only 0.02 million instalments. 
+The line chart at the bottom left shows the breakdown of the sum of payment installment across the payment methods. 
+-	Credit Card: With a total of 0.27 million installments, credit cards have the highest instalments overall.
+-	Boleto: It drastically dropped with only 0.02 million installments. 
 -	Voucher: the voucher has extremely low instalment usage of 0.01M
--	Debit Card: The instalment declined further to 0.00M 
+-	Debit Card: The installment declined further to 0.00M 
 
-  
+  4.	Average of Payment Value by Payment Type
+
+The line chart at the bottom right shows the average payment value per transaction for each payment type:
+
+-	Credit Card:  The Credit Card has the highest average payment value, with 163.32 units.
+-	Boleto: the average payment value of Boleto is 145.03 units, which is a little less.
+-	Debit Card: With an average of 142.57 units, debit cards trail Boleto by a little margin.
+-	Voucher: Voucher has the lowest average payment value as a result of a significant drop in the payment value with 65.70 units. 
+
+Key Insights/ Suggestions:
+ 
+- Credit Card is the dominant payment type, both in terms of the total payment value (78.34%) and the highest average payment value (163 units).
+- Boleto follows as the second most popular payment method, though it is significantly lower in terms of the number of installments and average payment value.
+- Voucher and Debit Card are used sparingly, with vouchers having a particularly low average payment value (66 units).
+
+This analysis suggests that credit cards are the preferred payment method on the Olist platform, likely due to the flexibility of payment installments and higher transaction amounts.
+
+
+
+
