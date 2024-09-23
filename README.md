@@ -108,6 +108,67 @@ Also, The credit card shows the wealthier audience. There should be further inve
 
 Lastly, the voucher conditions should be improved such as duration, installment payment. This might reduce the significant drop of the quantity.  
 
+### Olist Sentiment Analysis 
 
+![image](https://github.com/user-attachments/assets/4649e70f-039d-4c6b-852a-5ce409ace6ce)
+
+
+This report presents the analysis of customer sentiments from the reviews of the Olist platform. The reviews were classified into three categories: Positive, Negative, and Neutral sentiments, and the analysis shows the key insights into review scores and reoccurring themes for each sentiment type. From the review scores, 4-5 are rated as Positive reviews, 3 are rated as Neutral reviews, and 1-2 are rated as Negative reviews.
+ 
+1.	Total Review Score by Sentiment Type
+   
+- Positive Reviews: This is the majority of the review, which has 33k total review scores.
+- Negative Reviews: The negative review has 3k total review scores.
+- Neutral Review: This makes up 2k total review scores.
+ 
+According to the bar chart, the distribution highlights a predominantly positive sentiment towards Olist's products and services.
+ 
+2.	Count Review Scores by Sentiment Type
+   
+- Positive sentiments: This shows 69.67% of the total reviews.
+- Negative Sentiments: This makes up 22.80% of the total reviews.
+- Neutral sentiments: This accounts for 7.49% of total reviews.
+ 
+ This analysis confirms that the majority of customers have a favourable experience, with a minority expressing dissatisfaction.
+ 
+3.	Common Themes in Positive Reviews
+The positive reviews contain phrases like:
+- Product-related: “produto” (product), qualidade” (quality), “perfeito” (perfect), “bom” (good), and “lindo” (beautiful).
+- Delivery: “entrega” (delivery), “entregou” (delivered), “chegou” (it arrived), “rápido” (fast).
+- Customer Experience: “atemdimento” (service), “satisfeito” (satisfied), “recomendo” (recommend), and “parabens” (congratulations).
+
+Customers displayed the satisfaction of the quality of the products, timely delivery, and services through the positive comments.
+ 
+4.	Common Themes in Negative Reviews
+   
+The negative reviews frequently included terms linked to:
+- Product Issues: “produto” (product), “defeituoso” (defective), “danificado” (damaged).
+- Delivery Problems: “entrega” (delivery), “demorado” (delayed), “prazo” (deadline), “nao chegou” (didn’t arrive).
+- Customer Service Complaints: “problema” (problem), “não” (no response), “retorno” (returned), “não recebi” (did not receive).
+ 
+The negative feedback is mainly on the defective goods, delayed deliveries, and customer service issues.
+ 
+5.	Count of Sentiment Types by Review Scores
+   
+This analysis shows the review scores for each sentiment, where every customer added a rating on the scale of 1–5 to the reviews:
+- 5-Star Review: Positive reviews make up 55.05% of the score.
+- 1-Star Reviews: 18.26% of reviews are unfavourable.
+- 4-Star Reviews: 14.4% mainly positive
+- 3-Star Reviews: 7.51% shows neutral to mildly positive reviews.
+- 2-Star Reviews: 4.69% are leaning negative reviews.
+
+It can be observed that although the majority of reviews are positive, a considerable percentage (more than 18%) are strongly negative, indicating improvement on the areas. 
+
+Key Insights: 
+
+**Strong Positive Sentiment**: A large portion of Olist customers expressed satisfaction, especially in the area of the quality of the product, timely delivery, and overall service.
+
+**Concerns**: The Negative reviews are mainly from delayed or poor delivery, damaged products, and communication issues. Attention is needed to reduce negative feedback. 
+
+**Neutral Reviews**: A portion of reviews is neutral, showing some customers are neither highly satisfied nor dissatisfied. 
+
+In conclusion, while Olist has a favourable overall reputation, especially for product quality and delivery, improving customer satisfaction could further enhance customer satisfaction. 
+
+![image](https://github.com/user-attachments/assets/5b9f5c8e-677d-41e2-90e2-29b6b9586b42)
 
 
