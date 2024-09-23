@@ -169,6 +169,7 @@ Key Insights:
 
 In conclusion, while Olist has a favourable overall reputation, especially for product quality and delivery, improving customer satisfaction could further enhance customer satisfaction. 
 
+
 ![image](https://github.com/user-attachments/assets/5b9f5c8e-677d-41e2-90e2-29b6b9586b42)
 
 
