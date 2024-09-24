@@ -63,7 +63,7 @@ This report analyses the various mode of payment used by Olist customers, based 
 - Payment installments
 - Average payment value.
 
-1.	Percentage Payment Value by Payment type
+1.	**Percentage Payment Value by Payment type**
    
 The pie chart shows the distribution of payment values across different payment types:
 - Credit Card: With 78.34% of the total payment amount, credit cards lead the list of accepted payment methods.
@@ -79,7 +79,7 @@ The bar chart at the top right displays the total Sum of Payment Value for each 
 -	Voucher: Voucher payment type makes a meagre 0.4 million contribution. 
 -	Debt Card: Wth a total of 0.2M, debit cards are the least popular form of payment.
 
-  3.	Sum of Payment Installments by Payment Type
+  3.	**Sum of Payment Installments by Payment Type**
 
 The line chart at the bottom left shows the breakdown of the sum of payment installment across the payment methods. 
 -	Credit Card: With a total of 0.27 million installments, credit cards have the highest instalments overall.
@@ -96,7 +96,7 @@ The line chart at the bottom right shows the average payment value per transacti
 -	Debit Card: With an average of 142.57 units, debit cards trail Boleto by a little margin.
 -	Voucher: Voucher has the lowest average payment value as a result of a significant drop in the payment value with 65.70 units. 
 
-Key Insights/ Suggestions:
+**Key Insights/ Suggestions**:
  
 - Credit Card is the dominant payment type, both in terms of the total payment value (78.34%) and the highest average payment value (163 units).
 - Boleto follows as the second most popular payment method, though it is significantly lower in terms of the number of installments and average payment value.
@@ -115,7 +115,7 @@ Lastly, the voucher conditions should be improved such as duration, installment 
 
 This report presents the analysis of customer sentiments from the reviews of the Olist platform. The reviews were classified into three categories: Positive, Negative, and Neutral sentiments, and the analysis shows the key insights into review scores and reoccurring themes for each sentiment type. From the review scores, 4-5 are rated as Positive reviews, 3 are rated as Neutral reviews, and 1-2 are rated as Negative reviews.
  
-1.	Total Review Score by Sentiment Type
+1.	**Total Review Score by Sentiment Type**
    
 - Positive Reviews: This is the majority of the review, which has 33k total review scores.
 - Negative Reviews: The negative review has 3k total review scores.
@@ -123,7 +123,7 @@ This report presents the analysis of customer sentiments from the reviews of the
  
 According to the bar chart, the distribution highlights a predominantly positive sentiment towards Olist's products and services.
  
-2.	Count Review Scores by Sentiment Type
+2.	**Count Review Scores by Sentiment Type**
    
 - Positive sentiments: This shows 69.67% of the total reviews.
 - Negative Sentiments: This makes up 22.80% of the total reviews.
@@ -131,7 +131,7 @@ According to the bar chart, the distribution highlights a predominantly positive
  
  This analysis confirms that the majority of customers have a favourable experience, with a minority expressing dissatisfaction.
  
-3.	Common Themes in Positive Reviews
+3.	**Common Themes in Positive Reviews**
 The positive reviews contain phrases like:
 - Product-related: “produto” (product), qualidade” (quality), “perfeito” (perfect), “bom” (good), and “lindo” (beautiful).
 - Delivery: “entrega” (delivery), “entregou” (delivered), “chegou” (it arrived), “rápido” (fast).
@@ -139,7 +139,7 @@ The positive reviews contain phrases like:
 
 Customers displayed the satisfaction of the quality of the products, timely delivery, and services through the positive comments.
  
-4.	Common Themes in Negative Reviews
+4.	**Common Themes in Negative Reviews**
    
 The negative reviews frequently included terms linked to:
 - Product Issues: “produto” (product), “defeituoso” (defective), “danificado” (damaged).
@@ -170,6 +170,59 @@ Key Insights:
 In conclusion, while Olist has a favourable overall reputation, especially for product quality and delivery, improving customer satisfaction could further enhance customer satisfaction. 
 
 
+### Olist Product Analysis
+
+
 ![image](https://github.com/user-attachments/assets/5b9f5c8e-677d-41e2-90e2-29b6b9586b42)
+
+This report presents an analysis of the products available at the Olist store. With the focus on the most popular product category, customer distribution by state, and the highest-rated product categories. 
+
+1. **Top 10 Products Based on Orders**
+   
+The bar chart in the top left displays the top 10 product categories based on orders:
+- Bed, Bath, and Table: With 14,000 thousand ordered products. This product category becomes the most popular.
+- Furniture & Décor and Health & Beauty: These two product categories made a significant volume of orders, with 12,000 and 11,000, respectively.
+- Sports & Recreation, Computers & Accessories ordered the same number of items with 10,000, while Housewares, Watches & Gifts, Garden & Tools, Telephony, and Auto are other noteworthy categories.
+ 
+2. **Count of Product by Customer State**
+   
+The bar chart in the upper right shows the distribution of product purchases by state.
+
+- São Paulo (SP): The capital of Brazil (São Paulo) has the highest number of purchases, with over 19.1k.
+- Rio de Janeiro (RJ) and Minas Gerais (MG) also have significant purchase volumes of 7.9k and 7.3k, but with a hug different between São Paulo (SP).
+- Other Staes: The distribution displays smaller purchase volumes across different states, with a long tail for regions with fewer purchases.
+ 
+This indicates that a significant portion of purchases are made in Brazil's more populous state.
+
+3.	**Count of Product Categories by Customer State**
+ 
+The treemap visualises the count of product category purchases by customers from different states.
+- SP (São Paulo): Due to its wide range of preferences and large customer base, it stands out as the state with the largest diversity in product categories.
+- MG (Minas Gerais) and RJ (Rio de Janeiro): These two states have the same count of 69. And they are the second with the largest diversity in product categories.
+- Smaller States: AP (Amapá), RR (Roraima), and AC (Acre). There are fewer purchases and a lesser variety of products in states.
+ 
+This demonstrates that states with larger populations have higher purchasing power and exhibit a greater range of consumer preferences.
+ 
+4.	**Highest-Rated Product Categories (Top 10)**
+ 
+The bar chart in the bottom right shows the top 10 of the highest rating of the product categories with the highest average review scores.
+- Health & Beauty and Sports & Leisure: They have the highest average review scores with 4.14 and 4.11, respectively. This indicates that they have strong customer satisfaction in these areas.
+- Auto, Housewares, and Garden &Tools: With scores ranging from 4.07 to 4.04, also do well third and fourth products.
+- Bed, Bath & Table: The remaining five categories, with average scores ranging from 4.02 to 3.90, are watches & gifts, telephony, computers & accessories, furniture & decor,
+ 
+These categories show high levels of satisfaction; the majority of highly rated products have average scores above 4.0, indicating a steady level of quality.
+ 
+**Key Insights**:
+ 
+**Popular Product Categories**: The most popular products on Olist are home goods (Bed, Bath & Table, Furniture, and Housewares), personal care (Health & Beauty), and electronics (Computers & Accessories).
+ 
+**State Distribution**: São Paulo (SP) is the most product-purchasing state in terms of both quantity and variety of product categories, with Rio de Janeiro (RJ) and Minas Gerais (MG) following closely.
+
+**Customer Satisfaction**: With most top-rated categories scoring above 4.0, it is evident that customers are especially happy with certain product kinds. Examples of these categories are Health & Beauty and Sports & Leisure.
+ 
+All in all, this analysis shows that there is strong product performance in key categories and regions, and there are chances to keep focussing on highly rated and in-demand product segments.
+ 
+
+
 
 
