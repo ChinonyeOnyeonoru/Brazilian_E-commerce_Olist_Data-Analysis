@@ -222,6 +222,7 @@ These categories show high levels of satisfaction; the majority of highly rated 
  
 All in all, this analysis shows that there is strong product performance in key categories and regions, and there are chances to keep focussing on highly rated and in-demand product segments.
  
+![image](https://github.com/user-attachments/assets/5815b627-23a5-4f6a-8c7d-8f6910417a91)
 
 
 
