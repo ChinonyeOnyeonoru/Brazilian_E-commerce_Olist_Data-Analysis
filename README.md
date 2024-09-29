@@ -227,3 +227,60 @@ All in all, this analysis shows that there is strong product performance in key 
 
 
 
+
+
+![image](https://github.com/user-attachments/assets/974df34e-9d39-491e-8eb1-4f1f1dfedc69)
+###**Report on Olist Business Analysis**
+
+The distribution of Olist's customers, order approvals, and delivery performance over the years and locations are examined in this study along with other key indicators. The insights offer a thorough understanding of consumer behaviour and operational effectiveness.
+
+1. **Customers Distribution by State (Top 5)**
+This displays the top five customer distributions by their state:
+
+- **São Paulo (SP)**: With 41.7K clients, SP leads the highest number of customers.
+- **Rio de Janeiro (RJ)**: With 12.9K users, RJ ranks second-largest customer base.
+- **Others**: Minas Gerais (MG), Paraná (PR), and Rio Grande do Sul (RS): This state accounts for 11.6K, 5.5K, and 5.0K customers, respectively, come next.
+
+This analysis indicates Brazil's Southeast and South, especially in São Paulo, have a substantial customer base.
+
+2. **Approved Orders by Year and Region**
+
+This report shows the number of approved orders from 2016 to 2018 in each region, namely, Central-West, North, Northeast, South, and Southeast. 
+
+  ||Central-West|North|Northeast|South|Southeast|
+  |--------|--------|--------|--------|--------|--------|
+  |2016|0.016k|0.06k|0.03k|0.049k|0.18k|
+  |2017|2.5k|0.9k|4.4k|6.4k|29.1k|
+  2018|3.2k|0.9k|4.9k|7.5k|37.6k
+
+- **2016**: The year significantly had the least approved order in all the regions, with 0.016k in the Central-West, 0.06k in the North, 0.03k in the Northeast, 0.049k in the South, and 0.18k in the Southeast, respectively.
+- **2017**: These years had the second highest approved orders with 29.1k in the Southeast.
+- **2018**: This year had the highest approved orders, with 37.6k in the Southeast.
+
+There was significant growth in all the regions. The South region outperformed other regions in approved orders. Indicating that both the customer region and orders have consistent growth annually.
+
+3.	**Order Delivery by Year, Quarter, and Month**
+
+This analysis displays the delivery performance of orders between 2016 and 2018. 
+
+- **2016**: They had the lowest deliveries in Quarter 3 September 2016, with 1 (0.0k). 
+- **2017**: Having the highest deliveries in Quarter 4 November 2017, with 7221 (7.1k),
+
+- **2018**:  The year had the second highest deliveries in Quarter 1 March, with 7219 (7.1k) and a significant sudden decrease from Quarter 3 August to September 2018. 
+
+There was a rise and fall in delivery from Quarter 3 September to Quarter 4 December 2016. The delivery raised from 1 in September to 279 in Quarter 4 October of the same year. The delivery trends indicated a consistent monthly performance and a notable increase in deliveries year over year. This might be as a result of seasonal or promotional factors.
+
+4.	**Top 5 States and Regions by Customer Count**
+
+This report shows the South and Southeast made it to the top five regions, having MG, SP, RJ, PR, and RS as the states. 
+
+- **São Paulo (SP)**: With 41746, SP had the highest customer base.
+- **Rio de Janeiro (RJ)**: With 12852, RJ is the second highest state by customer count.
+- **Minas Gerais (MG)**: Has 11635 customers.
+- **Rio Grande do Sul (RS)**: Has 5466 customers.
+- **Paraná (PR)**: With 5045 customers. 
+
+From the geographic distribution, it shows that (SP) has then dominant state. And the customers spread across all 27 Brazilian states. 
+
+
+
