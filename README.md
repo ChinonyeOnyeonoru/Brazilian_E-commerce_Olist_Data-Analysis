@@ -247,6 +247,8 @@ This analysis indicates Brazil's Southeast and South, especially in São Paulo, 
 
 This report shows the number of approved orders from 2016 to 2018 in each region, namely, Central-West, North, Northeast, South, and Southeast. 
 
+
+
   ||Central-West|North|Northeast|South|Southeast|
   |--------|--------|--------|--------|--------|--------|
   |2016|0.016k|0.06k|0.03k|0.049k|0.18k|
@@ -283,4 +285,68 @@ This report shows the South and Southeast made it to the top five regions, havin
 From the geographic distribution, it shows that (SP) has then dominant state. And the customers spread across all 27 Brazilian states. 
 
 
+**Olist Business Analysis 2**
 
+
+![image](https://github.com/user-attachments/assets/f70c9f8a-71e0-4d26-a575-70016569379d)
+
+
+This analysis shows the key business metrics for Olist, such as orders, customer statistics, freight and payment values, and performance by year. Here are the key insights and suggestions. 
+
+1.	**Total Orders and Total Customers**:
+
+-	Total Orders: The Olist platform had 96.46k of total orders.
+-	Total Customers: There were 99.44K total unique customers on the platform.
+
+This indicates a nearly one-on-one ratio between orders and customers, indicating that the majority of customers placed a single order during the study period.
+
+2.	**Average Price and Freight Value**: 
+-	Average Order Price: There were 120.65 units for the average order price per order.
+
+3.	**Average Freight Value and Order Status**: 
+Freight Value:  depending on the order status, the average freight amount varies. That is, order status has an impact on freight value. 
+- Delivered Orders: Average freight cost of 19.9.
+- Cancelled Orders: With an average freight cost of 14.6.
+This shows that cancelled orders incurred lower average shipping costs than delivered orders, likely as a result of fewer logistical requirements.
+
+4.	**Freight Value and Price Trends by Year**:
+
+- 2016: With 0.006M in freight value and 0.04M in price.
+- 2017: Freight value of 0.9M and 5.9M in 2017.
+- 2018: With 1.2M in freight value and 7.2M in price. 
+
+From the report, the freight value increased from 0.006M in 2017, 0.9M in 2017, 1.2M in 2018, while the price also had an increase with 0.04M in 2016, 5.9M in 2017, 7.2M in 2018. Over the years, there has been a significant rise in sales and freight costs, indicating potential changes in freight-related expenses or pricing strategies.
+
+5.	**Customer City and State (Top 10 Customer City)**:
+
+The report counts the orders by state and customer city, with the top ten cities accounting for a large portion of the total orders:
+
+- Major Cities: Cites like Xanxere had 29 total orders, Xaxim had 10 orders, and Xinguara had 9 orders, having the majority of orders.
+-	Minority Cities: Ze doca, Xiqe-xique, Xapuri, Xavantina, Zacarias, Zortea, and Xexeu had lesser orders. 
+
+Olist's customer geographic distribution is examined, with a focus on the leading customer cities and states. The majority of the customers are in states like SC, Pará (PA), Maranhão (MA), Bahia (BA), Acre (AC), SC, São Paulo (SP), SC, and Pernambuco (PE).
+
+6.	**Standard Deviation of Payment Value by Year and Payment Type**: 
+
+
+The analysis displays the standard deviation of the payment value along with a variety of payment methods, such as boleto, credit card, debit card, and voucher. It shows the variation in payment amounts by displaying the activities along with the year and payment type. For example: 
+
+
+||Boleto|Credit Card|Debit Card|Voucher|
+  |--------|--------|--------|--------|--------|
+  |2016|169.7|196.0|55.4|54.9|
+  |2017|217.3|228.2|80.6|84.5|
+  |2018|211.8|269.7|289.7|95.8|
+
+
+Payment Trends:  From 2018 to 2018, there was a minor increase in the average payment value, which has remained relatively stable over the years. With the consistency in the standard deviation of payment values, it indicated a stable payment pattern.  
+ 
+**Key Insights/Recommendations**:
+
+-	Steady Growth: The analysis shows a strong growth trend in both sales volume and freight expenses between 2016 and 2018, indicating a growing market for Olist's stores.
+-	Credit Card dominating: The average payment value and its variability both show that consumers prefer credit cards for larger-value purchases.
+-	Geographic Distribution: Olist's customer base is widely distributed over several states, while a considerable proportion of orders are placed in the company's top-performing cities.
+-	Freight Efficiency: Delivered orders incurred higher freight costs than cancelled ones, and when sales volumes grew over years, there was a significant increase in freight expenses.
+-	Optimise for High-Value Transactions: In order to increase sales even more, Olist should concentrate on enhancing credit card customers' rewards and incentives. This is because credit cards are used for larger transactions. 
+-	Improvement in logistics for Cancelled Orders: In order to minimise losses associated with cancellations, Olist should investigate why cancelled orders incurred a slightly lower freight value.
+-	Expansion: Although some states and cities show strong performance. There should be more expansion to other minor cities; there should be potential growth in such areas. Which can be done through targeted marketing campaigns. 
