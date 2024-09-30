@@ -229,8 +229,10 @@ All in all, this analysis shows that there is strong product performance in key 
 
 
 
+
 ![image](https://github.com/user-attachments/assets/974df34e-9d39-491e-8eb1-4f1f1dfedc69)
-###**Report on Olist Business Analysis**
+
+### **Report on Olist Business Analysis**
 
 The distribution of Olist's customers, order approvals, and delivery performance over the years and locations are examined in this study along with other key indicators. The insights offer a thorough understanding of consumer behaviour and operational effectiveness.
 
@@ -285,7 +287,7 @@ This report shows the South and Southeast made it to the top five regions, havin
 From the geographic distribution, it shows that (SP) has then dominant state. And the customers spread across all 27 Brazilian states. 
 
 
-**Olist Business Analysis 2**
+### **Olist Business Analysis 2**
 
 
 ![image](https://github.com/user-attachments/assets/f70c9f8a-71e0-4d26-a575-70016569379d)
